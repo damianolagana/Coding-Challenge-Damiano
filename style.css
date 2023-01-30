@@ -1,0 +1,84 @@
+html{
+    height: 100%;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: 120% 120%;
+}
+.container{
+    width: 900px;
+    height: 900px;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 150%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 15px;
+}
+
+#logo{
+    width: 250px;
+}
+
+header{
+   text-align: center;
+}
+
+.Titolo{
+    color: #00dd00;
+    width: 500px;
+    margin: auto;
+}
+
+nav{
+    text-align: center;
+}
+
+.opzioni{
+    height: 30px;
+    padding-top: 10px;
+    background-color: #00dd00;
+}
+
+.checkbox{
+    width: 15px;
+}
+
+.monopattino{
+    display: inline-block;
+    margin-bottom: 0%;
+}
+
+
+#barra-orange{
+    background-color: orange;
+    width: 45%;
+    border-radius: 10px;
+    height: 30px;
+
+}
+
+#barra-text1{
+    color: orange;
+}
+
+#barra-green{
+    background-color: rgb(42, 182, 42);
+    width: 70%;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#barra-text2{
+    color:  rgb(42, 182, 42);
+}
+
+#barra-red{
+     background-color: red;
+    width: 20%;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#barra-text3{
+    color: red;
+}
